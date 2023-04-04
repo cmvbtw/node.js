@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "meu primeiro aplicativo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmvbtw/node.js.git"
+  },
+  "author": "clarissa maciel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmvbtw/node.js/issues"
+  },
+  "homepage": "https://github.com/cmvbtw/node.js#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
